@@ -1,1 +1,6 @@
+#EXTM3U
 
+#EXTINF:0, SHAZAN
+
+#EXTINF:-1, tvg-ID="" tvg-name="MTV" tvg-logo="http://168.205.87.198/logocanais/mtv.png" group-title="VARIEDADES", MTV
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/76.m3u8
