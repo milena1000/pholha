@@ -6,3 +6,5 @@
 http://168.205.87.198:8555/live/viniciusvieira/vieira123/76.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="ANIMAL PLANET" tvg-logo="http://168.205.87.198/logocanais/animalplanet.png" group-title="Degustação Do Vip",ANIMAL PLANET
 http://168.205.87.198:8555/live/viniciusvieira/vieira123/18.m3u8
+#EXTINF:0, tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2019/07/zumbilandia-2-1.jpg", ZUMBILANDIA: ATIRE DUAS VEZES
+http://ns2.zwatch.club/online/feral/dub/338967.mp4
